@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package customer;
+package controller;
 
 /**
  *
  * @author krishani
  */
-public class Controller {
+public class CustomerController {
     
 }
